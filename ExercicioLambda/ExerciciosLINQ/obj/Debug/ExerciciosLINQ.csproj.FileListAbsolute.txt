@@ -1,7 +1,0 @@
-C:\Users\B43794\OneDrive - Banrisul S.A\Área de Trabalho\ExercicioLambda\ExerciciosLINQ\bin\Debug\ExerciciosLINQ.exe.config
-C:\Users\B43794\OneDrive - Banrisul S.A\Área de Trabalho\ExercicioLambda\ExerciciosLINQ\bin\Debug\ExerciciosLINQ.exe
-C:\Users\B43794\OneDrive - Banrisul S.A\Área de Trabalho\ExercicioLambda\ExerciciosLINQ\bin\Debug\ExerciciosLINQ.pdb
-C:\Users\B43794\OneDrive - Banrisul S.A\Área de Trabalho\ExercicioLambda\ExerciciosLINQ\obj\Debug\ExerciciosLINQ.csprojAssemblyReference.cache
-C:\Users\B43794\OneDrive - Banrisul S.A\Área de Trabalho\ExercicioLambda\ExerciciosLINQ\obj\Debug\ExerciciosLINQ.csproj.CoreCompileInputs.cache
-C:\Users\B43794\OneDrive - Banrisul S.A\Área de Trabalho\ExercicioLambda\ExerciciosLINQ\obj\Debug\ExerciciosLINQ.exe
-C:\Users\B43794\OneDrive - Banrisul S.A\Área de Trabalho\ExercicioLambda\ExerciciosLINQ\obj\Debug\ExerciciosLINQ.pdb

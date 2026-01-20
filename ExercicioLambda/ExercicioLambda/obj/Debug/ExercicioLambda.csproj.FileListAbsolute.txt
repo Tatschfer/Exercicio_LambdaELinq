@@ -1,6 +1,0 @@
-C:\Users\B43794\OneDrive - Banrisul S.A\Área de Trabalho\ExercicioLambda\ExercicioLambda\bin\Debug\ExercicioLambda.exe.config
-C:\Users\B43794\OneDrive - Banrisul S.A\Área de Trabalho\ExercicioLambda\ExercicioLambda\bin\Debug\ExercicioLambda.exe
-C:\Users\B43794\OneDrive - Banrisul S.A\Área de Trabalho\ExercicioLambda\ExercicioLambda\bin\Debug\ExercicioLambda.pdb
-C:\Users\B43794\OneDrive - Banrisul S.A\Área de Trabalho\ExercicioLambda\ExercicioLambda\obj\Debug\ExercicioLambda.csproj.CoreCompileInputs.cache
-C:\Users\B43794\OneDrive - Banrisul S.A\Área de Trabalho\ExercicioLambda\ExercicioLambda\obj\Debug\ExercicioLambda.exe
-C:\Users\B43794\OneDrive - Banrisul S.A\Área de Trabalho\ExercicioLambda\ExercicioLambda\obj\Debug\ExercicioLambda.pdb
